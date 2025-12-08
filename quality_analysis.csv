@@ -1,0 +1,31 @@
+filename,brightness,contrast,blur_score,issues
+001.jpeg,143.44,51.85,162.93,Good quality
+002.jpeg,130.28,60.15,50.22,Blurred
+003.jpeg,105.58,64.23,20.71,Blurred
+004.jpeg,124.75,64.16,50.32,Blurred
+005.jpeg,109.07,61.59,49.1,Blurred
+006.jpeg,106.42,63.56,23.92,Blurred
+007.jpeg,113.51,59.26,39.92,Blurred
+008.jpeg,138.31,72.87,48.0,Blurred
+009.jpeg,139.1,62.23,54.54,Blurred
+010.jpeg,131.46,54.08,84.26,Blurred
+011.jpeg,120.63,59.14,50.84,Blurred
+012.jpeg,142.53,49.88,168.83,Good quality
+013.jpeg,145.05,58.46,136.56,Good quality
+014.jpeg,143.48,49.86,159.69,Good quality
+015.jpeg,107.91,53.8,159.7,Good quality
+016.jpeg,118.11,52.52,136.38,Good quality
+017.jpeg,144.86,57.53,129.16,Good quality
+018.jpeg,107.48,47.67,162.94,Good quality
+019.jpeg,120.54,45.95,152.73,Good quality
+020.jpeg,128.39,48.06,133.06,Good quality
+021.jpeg,105.0,52.58,133.73,Good quality
+022.jpeg,91.77,55.88,101.31,Good quality
+023.jpeg,105.92,48.26,81.46,Blurred
+024.jpeg,149.94,44.12,87.64,Blurred
+025.jpeg,112.07,53.67,70.9,Blurred
+026.jpeg,108.91,48.41,112.06,Good quality
+027.jpeg,83.41,36.13,107.92,Good quality
+028.jpeg,142.54,46.53,90.68,Blurred
+029.jpeg,106.01,49.74,99.35,Blurred
+030.jpeg,58.72,25.44,70.04,"Low Brightness, Low Contrast, Blurred"
