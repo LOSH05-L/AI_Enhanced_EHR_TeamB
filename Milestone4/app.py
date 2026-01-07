@@ -950,7 +950,7 @@ def dashboard_page():
             with col2:
                 try:
                     image = Image.open(image_path)
-                    st.image(image, use_container_width=True)
+                    st.image(image, use_column_width=True)
                     
                     file_ext = os.path.splitext(image_path)[1].upper().replace('.', '')
                     st.markdown(f"""
