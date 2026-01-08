@@ -41,7 +41,7 @@ git push origin main
 
 Your app will be live in 2-5 minutes! You'll get a public URL like:
 ```
-https://aienhancedehrteamb-tjlu7ezaqcy94sgwnecrhc.streamlit.app/
+https://career-advisory-gbj6vjfab5ndwpudxpbby3.streamlit.app/#no-image-available
 ```
 
 ## Important Notes
